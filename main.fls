@@ -73,6 +73,10 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
 INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
 INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
 INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
 INPUT c:/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/german.lbx
@@ -116,12 +120,13 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT main.toc
 INPUT main.toc
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 OUTPUT main.toc
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
